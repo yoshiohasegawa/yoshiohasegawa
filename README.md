@@ -1,5 +1,4 @@
 <p align="center">
-  <br/>
   <a href="https://www.linkedin.com/in/yoshiohasegawa">
     <img alt="Yoshio's LinkedIn" width="35px" src="https://image.flaticon.com/icons/png/512/1409/1409945.png" />
   </a>
@@ -16,11 +15,11 @@
 
 ```yaml
 name: Yoshio Hasegawa
-located_in: Tokyo, Japan
-from: Seattle, Washington, USA
+from: Seattle, Washington
+location: Tokyo, Japan
 
 education: ["Bachelors in Economics", "Advanced Full-Stack Development Bootcamp"]
-job: Currently Seeking Opportunities in Software Engineering
+role: Currently Seeking Opportunities in Software Engineering
 company: Currently Seeking Opportunities in Software Engineering
 
 hobbies: ["Mountaineering", "Backcountry Skiing", "Rock/Alpine Climbing", "Cycling", "Hiking", "Traveling"]
