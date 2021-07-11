@@ -18,9 +18,8 @@ name: Yoshio Hasegawa
 from: Seattle, Washington
 location: Tokyo, Japan
 
-education: Bachelors in Economics & Advanced Full-Stack Development Bootcamp Graduate
-role: Currently Seeking Opportunities in Software Engineering
-company: Currently Seeking Opportunities in Software Engineering
+education: BA Economics, University of Redlands
+position: Currently Seeking Opportunities in Software Engineering
 
 hobbies: Mountaineering, Backcountry Skiing, Rock/Alpine Climbing, Cycling, Hiking, Traveling
 ```
