@@ -96,7 +96,7 @@ hobbies: Mountaineering, Backcountry Skiing, Rock/Alpine Climbing, Cycling, Hiki
 <div align="center">
   <img 
        alt="GitHub Stats" 
-       src="https://github-readme-stats.vercel.app/api?username=yoshiohasegawa&hide_border=true&show_icons=true&bg_color=283038&title_color=00cc66&icon_color=4db2f0&text_color=cccccc"
+       src="https://github-readme-stats.vercel.app/api?username=yoshiohasegawa&hide_border=true&show_icons=true&bg_color=283038&title_color=00cc66&icon_color=4db2f0&text_color=cccccc&count_private=true"
            
            
   </img>
