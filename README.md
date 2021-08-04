@@ -19,7 +19,8 @@ from: Seattle, Washington
 location: Tokyo, Japan
 
 education: BA Economics, University of Redlands
-position: Currently Seeking Opportunities in Software Engineering
+company: Octopus Energy, Japan
+position: Backend Developer
 
 hobbies: Mountaineering, Backcountry Skiing, Rock/Alpine Climbing, Cycling, Hiking, Traveling
 ```
