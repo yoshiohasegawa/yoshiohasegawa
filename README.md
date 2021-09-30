@@ -48,6 +48,7 @@ hobbies: Mountaineering, Backcountry Skiing, Rock/Alpine Climbing, Cycling, Hiki
       <td>
         <img alt="React" src="https://img.shields.io/badge/-React-000?&logo=react" />
         <img alt="React Native" src="https://img.shields.io/badge/-React%20Native-000?&logo=react" />
+        <img alt="NextJS" src="https://img.shields.io/badge/-NextJS-000?&logo=next.js" />
         <img alt="Vue" src="https://img.shields.io/badge/-Vue-000?logo=vue.js" />
         <img alt="HTML" src="https://img.shields.io/badge/-HTML-000?logo=html5" />
         <img alt="CSS" src="https://img.shields.io/badge/-CSS-000?logo=css3" />
