@@ -75,15 +75,21 @@ hobbies: Mountaineering, Backcountry Skiing, Rock/Alpine Climbing, Cycling, Hiki
       </td>
     </tr>
     <tr>
-      <td>Data Control</td>
+      <td>Data Science</td>
       <td>
         <img alt="Pandas" src="https://img.shields.io/badge/-Pandas-000?logo=pandas" />
         <img alt="NumPy" src="https://img.shields.io/badge/-NumPy-000?logo=numpy" />
         <img alt="scikit-learn" src="https://img.shields.io/badge/-scikit%20learn-000?logo=scikitlearn" />
+      </td>
+    </tr>
+    <tr>
+      <td>Data Control</td>
+      <td>
         <img alt="Snowflake" src="https://img.shields.io/badge/-Snowflake-000?logo=snowflake" />
         <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-000?logo=mysql" />
         <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-000?logo=postgresql" />
         <img alt="MSSQL" src="https://img.shields.io/badge/-MSSQL-000?logo=microsoft-sql-server" />
+        <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-000?logo=graphql" />
         <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-000?logo=mongodb" />
       </td>
     </tr>
