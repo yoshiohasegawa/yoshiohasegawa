@@ -61,6 +61,7 @@ hobbies: Mountaineering, Backcountry Skiing, Rock/Alpine Climbing, Cycling, Hiki
         <img alt="Amazon Web Services" src="https://img.shields.io/badge/-AWS-000?&logo=amazon-aws&logoColor=F90" />
         <img alt="Django" src="https://img.shields.io/badge/-Django-000?&logo=django" />
         <img alt="Flask" src="https://img.shields.io/badge/-Flask-000?logo=flask" />
+        <img alt="Celery" src="https://img.shields.io/badge/-Celery-000?logo=celery" />
         <img alt="Express" src="https://img.shields.io/badge/-Express-000?logo=express" />
         <img alt="Apollo Server" src="https://img.shields.io/badge/-Apollo%20Server-000?logo=apollo-graphql" />
       </td>
