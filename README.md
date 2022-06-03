@@ -1,15 +1,15 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/yoshiohasegawa">
-    <img alt="Yoshio's LinkedIn" width="35px" src="https://image.flaticon.com/icons/png/512/1409/1409945.png" />
+    <img alt="Yoshio's LinkedIn" width="35px" src="https://raw.githubusercontent.com/yoshiohasegawa/yoshiohasegawa/main/images/linkedin.png" />
   </a>
   <a href="https://twitter.com/yoshiohasegawa">
-    <img alt="Yoshio's Twitter" width="35px" src="https://image.flaticon.com/icons/png/512/179/179342.png" />
+    <img alt="Yoshio's Twitter" width="35px" src="https://raw.githubusercontent.com/yoshiohasegawa/yoshiohasegawa/main/images/twitter.png" />
   </a>
   <a href="https://www.instagram.com/yoshioshasegawa">
-    <img alt="Yoshio's Instagram" width="35px" src="https://image.flaticon.com/icons/png/512/2111/2111463.png" />
+    <img alt="Yoshio's Instagram" width="35px" src="https://raw.githubusercontent.com/yoshiohasegawa/yoshiohasegawa/main/images/instagram.png" />
   </a>
   <a href="https://open.spotify.com/user/yoshiohasegawa206">
-    <img alt="Yoshio's Spotify" width="35px" src="https://image.flaticon.com/icons/png/512/174/174872.png" />
+    <img alt="Yoshio's Spotify" width="35px" src="https://raw.githubusercontent.com/yoshiohasegawa/yoshiohasegawa/main/images/spotify.png" />
   </a>
 </p>
 
