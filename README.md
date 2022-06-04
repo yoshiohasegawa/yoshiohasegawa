@@ -62,6 +62,7 @@ hobbies: Mountaineering, Backcountry Skiing, Rock/Alpine Climbing, Cycling, Hiki
         <img alt="Django" src="https://img.shields.io/badge/-Django-000?&logo=django" />
         <img alt="Flask" src="https://img.shields.io/badge/-Flask-000?logo=flask" />
         <img alt="Celery" src="https://img.shields.io/badge/-Celery-000?logo=celery" />
+        <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-000?logo=graphql" />
         <img alt="Express" src="https://img.shields.io/badge/-Express-000?logo=express" />
         <img alt="Apollo Server" src="https://img.shields.io/badge/-Apollo%20Server-000?logo=apollo-graphql" />
       </td>
@@ -90,7 +91,6 @@ hobbies: Mountaineering, Backcountry Skiing, Rock/Alpine Climbing, Cycling, Hiki
         <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-000?logo=mysql" />
         <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-000?logo=postgresql" />
         <img alt="MSSQL" src="https://img.shields.io/badge/-MSSQL-000?logo=microsoft-sql-server" />
-        <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-000?logo=graphql" />
         <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-000?logo=mongodb" />
       </td>
     </tr>
