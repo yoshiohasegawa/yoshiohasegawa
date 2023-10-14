@@ -17,7 +17,6 @@
 name: Yoshio Hasegawa
 location: Tokyo, Japan
 company: Kraken Technologies, Japan
-
 hobbies: Mountaineering, Backcountry Skiing, Rock/Alpine Climbing, Cycling, Hiking, Traveling
 ```
 
