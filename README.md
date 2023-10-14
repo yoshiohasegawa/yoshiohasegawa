@@ -15,12 +15,8 @@
 
 ```yaml
 name: Yoshio Hasegawa
-from: Seattle, Washington
 location: Tokyo, Japan
-
-education: BA Economics, University of Redlands
-company: Octopus Energy, Japan
-position: Backend Developer
+company: Kraken Technologies, Japan
 
 hobbies: Mountaineering, Backcountry Skiing, Rock/Alpine Climbing, Cycling, Hiking, Traveling
 ```
