@@ -39,7 +39,7 @@ hobbies: Mountaineering, Backcountry Skiing, Rock/Alpine Climbing, Cycling, Hiki
         <img alt="Python" src="https://img.shields.io/badge/-Python-000?&logo=python" />
         <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-000?&logo=typescript" />
         <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-000?&logo=javascript" />
-        <img alt="Java" src="https://img.shields.io/badge/-Java-000?&logo=java&logoColor=007396" />
+        <img alt="Java" src="https://img.shields.io/badge/-Java-000?&logo=openjdk&logoColor=orange" />
         <img alt="Swift" src="https://img.shields.io/badge/-Swift-000?&logo=swift" />
       </td>
     </tr>
