@@ -5,7 +5,7 @@
   <a href="https://twitter.com/yoshiohasegawa">
     <img alt="Yoshio's Twitter" width="35px" src="https://raw.githubusercontent.com/yoshiohasegawa/yoshiohasegawa/main/images/twitter.png" />
   </a>
-  <a href="https://www.instagram.com/yoshioshasegawa">
+  <a href="https://www.instagram.com/_yoshiohasegawa">
     <img alt="Yoshio's Instagram" width="35px" src="https://raw.githubusercontent.com/yoshiohasegawa/yoshiohasegawa/main/images/instagram.png" />
   </a>
   <a href="https://open.spotify.com/user/yoshiohasegawa206">
