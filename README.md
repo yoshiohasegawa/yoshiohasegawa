@@ -96,6 +96,14 @@ hobbies: Mountaineering, Backcountry Skiing, Rock/Alpine Climbing, Cycling, Hiki
         <img alt="Plot.ly" src="https://img.shields.io/badge/-plotly-000?logo=plotly" />
       </td>
     </tr>
+    <tr>
+      <td>Monitoring</td>
+      <td>
+        <img alt="DataDog" src="https://img.shields.io/badge/-DataDog-000?logo=datadog" />
+        <img alt="Power BI" src="https://img.shields.io/badge/-Sentry-000?logo=sentry" />
+        <img alt="Plot.ly" src="https://img.shields.io/badge/-Grafana-000?logo=grafana" />
+      </td>
+    </tr>
   </tbody>
 </table>
 
