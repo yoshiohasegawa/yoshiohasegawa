@@ -16,7 +16,7 @@
 ```yaml
 name: Yoshio Hasegawa
 company: Kraken Technologies
-hobbies: Mountaineering, Backcountry Skiing, Rock/Alpine Climbing, Cycling, Hiking, Traveling
+hobbies: Mountaineering, Skiing, Climbing, Hiking, Cycling, Running, Weightlifting, Traveling, Reading
 ```
 
 <table align="center">
